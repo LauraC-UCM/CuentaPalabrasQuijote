@@ -1,4 +1,4 @@
-# ENTREGA 5 - Contar las palabras de "Don Quijote de La Mancha" con Spark
+# Contar las palabras de "Don Quijote de La Mancha" con Spark - Entrega 6
 
 Vamos a hacer un programa que cuente las palabras de un fichero dado, en este caso del libro "Don Quijote de La Mancha". Para ello vamos a seguir los siguientes pasos:
 
