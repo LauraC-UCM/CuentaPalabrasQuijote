@@ -16,3 +16,5 @@ Vamos a hacer un programa que cuente las palabras de un fichero dado, en este ca
 - quijote.txt       -> Contiene el libro "Don Quijote de La Mancha" para contar las palabras
 - porcentaje.py     -> Extrae de forma aleatoria un porcentaje de las líneas del fichero de entrada y las copia en un fichero llamado quijote_s05.txt
 - contarPalabras.py -> Cuenta las palabras del contenido del archivo que se le pase como parámetro (quijote.txt / quijote_s05-txt) y escribe el número de la solución en un archivo .txt 
+- out_hdfs.txt      -> salida de ejecutar el programa con el programa con el fichero en hdfs
+- Capturas de pantalla interfaz grafica de spark
